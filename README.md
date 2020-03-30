@@ -38,7 +38,7 @@ IBM Watson Assistant service helps you build, train, and deploy conversational i
 
 ## Video
 
-[![Call for Code Solution Starter: Water sustainability in the context of climate change ](https://img.youtube.com/vi/VnKmEgUnn34/0.jpg)](https://www.youtube.com/watch?v=VnKmEgUnn34)
+[![Call for Code Solution Starter: Water sustainability in the context of climate change ](https://img.youtube.com/vi/WzEj_m0hwF0/0.jpg)](https://www.youtube.com/watch?v=WzEj_m0hwF0)
 
 ## The idea
 
@@ -113,16 +113,11 @@ The challenge for you is to build out from this framework to create a more compl
 
 ## Documents
 
-- Trusted sources for COVID-19 information
-  - [CDC COVID-19 FAQ](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+### Trusted sources for COVID-19 information
+- [CDC COVID-19 FAQ](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
 
-## Datasets
+### Tutorials and documentation:
 
-- [covid19api](https://covid19api.com/)
-
-## Technology
-
-- [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
 - [How-to guides for chatbots](https://www.ibm.com/watson/how-to-build-a-chatbot)
 - [Learning path: Getting started with Watson Assistant](https://developer.ibm.com/series/learning-path-watson-assistant/)
 - [Chatbot with Watson Discovery](https://github.com/IBM/watson-discovery-sdu-with-assistant)
@@ -131,7 +126,27 @@ The challenge for you is to build out from this framework to create a more compl
 - [Train a speech-to-text model](https://developer.ibm.com/patterns/customize-and-continuously-train-your-own-watson-speech-service/)
 - [Making Programmatic Calls from Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-dialog-webhooks)
 - [IBM Cloud Voice Agent with Twilio](https://developer.ibm.com/recipes/tutorials/ibms-voice-agent-with-watson-and-twilio/)
+- [Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 
+## Datasets
+
+- [covid19api](https://covid19api.com/)
+
+## Technology
+
+### IBM technology
+
+- [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
+- [Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
+- [Watson Speech to Text](https://www.ibm.com/cloud/watson-speech-to-text)
+- [Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
+- [IBM Cloud Functions](https://cloud.ibm.com/functions/)
+
+### Open source technology
+
+- [Node.js](https://nodejs.org/en/)
+- [Apache OpenWhisk](https://openwhisk.apache.org/)
+- [Node-RED](https://nodered.org/)
 
 ## Getting started
 
@@ -201,13 +216,7 @@ Want to create a voice-enabled chatbot? This tutorial teaches you how to [create
 
 Finally, you can embed your COVID-19 crisis communication chatbot on a Node.js website. 
 
-- Fork the [Assistant-Simple](https://github.com/watson-developer-cloud/assistant-simple) code.
 - Follow the [COVID-Simple installation instructions](./starter-kit/covid-simple/README.md)
-
-## Resources
-
-- [IBM Cloud](https://www.ibm.com/cloud)
-- [Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 
 ## Disclosures
 
